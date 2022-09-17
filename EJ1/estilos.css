@@ -1,0 +1,35 @@
+body {
+    background-color: #E8E8E8;
+}
+
+.container {
+    width: 750px;
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.titulo {
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.subtitulo {
+    font-size: 30px
+}
+
+.img-logo {
+    width: 300px;
+    height: 250px;
+}
+
+.formu {
+    width: 320px;
+    margin-bottom: 50px;
+}
+
+a {
+    padding: 5px;
+}
